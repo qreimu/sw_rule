@@ -4,6 +4,6 @@
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ;HostRegex: ^(www|beta)\.skype\.com$
-*.csdn.net/
+*.csdn.net
 *.baidu.com
 *.bilibili.com
