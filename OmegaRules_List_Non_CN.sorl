@@ -1,0 +1,9 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2021/4/17
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+;HostRegex: ^(www|beta)\.skype\.com$
+*.csdn.net/
+*.baidu.com
+*.bilibili.com
